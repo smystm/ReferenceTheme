@@ -1,0 +1,250 @@
+/* Vazir Font */
+@font-face {
+  font-family: vazirmatn-normal;
+  src: url("./../fonts/vazirmatn/Vazirmatn-UI-FD-Medium.woff2") format("woff2");
+  font-style: normal;
+  font-weight: normal;
+}
+
+/* IranYekan */
+@font-face {
+  font-family: IranYekan;
+  src: url("./../fonts/iranyekan/iranyekanweblightfanum.woff") format("woff");
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("./../fonts/iranyekan/iranyekanwebregularfanum.woff") format("woff");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("./../fonts/iranyekan/iranyekanwebmediumfanum.woff") format("woff");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("./../fonts/iranyekan/iranyekanwebboldfanum.woff") format("woff");
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("./../fonts/iranyekan/iranyekanwebextraboldfanum.woff")
+    format("woff");
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: IranYekan;
+  src: url("./../fonts/iranyekan/iranyekanwebextrablackfanum.woff")
+    format("woff");
+  font-style: normal;
+  font-weight: 900;
+}
+/* IranSansX */
+
+@font-face {
+  font-family: IRANSansX;
+  font-style: normal;
+  font-weight: normal;
+  src: url("./../fonts/IranSansX/woff2/IRANSansX-regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: IRANSansX;
+  font-style: normal;
+  font-weight: 100;
+  src: url("./../fonts/IranSansX/woff/IRANSansX-thin.woff") format("woff"),
+    url("./../fonts/IranSansX/woff2/IRANSansX-thin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: IRANSansX;
+  font-style: normal;
+  font-weight: 200;
+  src: url("./../fonts/IranSansX/woff/IRANSansX-UltraLight.woff") format("woff"),
+    url("./../fonts/IranSansX/woff2/IRANSansX-UltraLight.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: IRANSansX;
+  font-style: normal;
+  font-weight: 300;
+  src: url("./../fonts/IranSansX/woff/IRANSansX-light.woff") format("woff"),
+    url("./../fonts/IranSansX/woff2/IRANSansX-light.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: IRANSansX;
+  font-style: normal;
+  font-weight: 500;
+  src: url("./../fonts/IranSansX/woff/IRANSansX-medium.woff") format("woff"),
+    url("./../fonts/IranSansX/woff2/IRANSansX-medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: IRANSansX;
+  font-style: normal;
+  font-weight: 600;
+  src: url("./../fonts/IranSansX/woff/IRANSansX-demibold.woff") format("woff"),
+    url("./../fonts/IranSansX/woff2/IRANSansX-demibold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: IRANSansX;
+  font-style: normal;
+  font-weight: 800;
+  src: url("./../fonts/IranSansX/woff/IRANSansX-extrabold.woff") format("woff"),
+    url("./../fonts/IranSansX/woff2/IRANSansX-extrabold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: IRANSansX;
+  font-style: normal;
+  font-weight: 900;
+  src: url("./../fonts/IranSansX/woff/IRANSansX-black.woff") format("woff"),
+    url("./../fonts/IranSansX/woff2/IRANSansX-black.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: IRANSansX;
+  font-style: normal;
+  font-weight: bold;
+  src: url("./../fonts/IranSansX/woff/IRANSansX-bold.woff") format("woff"),
+    url("./../fonts/IranSansX/woff2/IRANSansX-bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: IRANSansX;
+  font-style: normal;
+  font-weight: normal;
+  src: url("./../fonts/IranSansX/woff/IRANSansX-regular.woff") format("woff"),
+    url("./../fonts/IranSansX/woff2/IRANSansX-regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: IRANSansX;
+  font-style: normal;
+  font-weight: normal;
+  src: url("./../fonts/IranSansX/woff2/IRANSansWebFaNum.woff2") format("woff2");
+}
+
+/* Begin::icon */
+@font-face {
+  font-family: "icomoon";
+  src: url("../fonts/icons/icomoon.ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class*=" icon-"]::before {
+  font-family: "icomoon" !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tofont::before {
+  font-size: 24px;
+  padding-left: 8px;
+}
+
+.icon-to-business-guilds::before {
+  content: "\e924";
+}
+.icon-to-business-cosmetics::before {
+  content: "\e91b";
+}
+.icon-to-business-educational::before {
+  content: "\e921";
+}
+.icon-to-business-publishing::before {
+  content: "\e92c";
+}
+.icon-to-business-medical::before {
+  content: "\e929";
+}
+.icon-to-business-clothing::before {
+  content: "\e937";
+}
+.icon-to-business-transportation::before {
+  content: "\e92f";
+}
+.icon-to-business-official::before {
+  content: "\e92a";
+}
+.icon-to-business-building::before {
+  content: "\e934";
+}
+.icon-to-business-city::before {
+  content: "\e936";
+}
+.icon-to-business-computer-mobile::before {
+  content: "\e938";
+}
+.icon-to-business-ceremonies::before {
+  content: "\e935";
+}
+.icon-to-business-travel::before {
+  content: "\e930";
+}
+.icon-to-business-house::before {
+  content: "\e927";
+}
+.icon-to-business-vehicle::before {
+  content: "\e931";
+}
+.icon-to-business-haberdashery::before {
+  content: "\e925";
+}
+.icon-to-business-animal-poultry::before {
+  content: "\e932";
+}
+.icon-to-business-tobacco::before {
+  content: "\e92e";
+}
+.icon-to-business-decoration-furniture::before {
+  content: "\e90b";
+}
+.icon-to-business-restaurant::before {
+  content: "\e922";
+}
+.icon-to-business-jewelry::before {
+  content: "\e92b";
+}
+.icon-to-business-industrial::before {
+  content: "\e928";
+}
+.icon-to-business-home-appliances::before {
+  content: "\e926";
+}
+.icon-to-business-food-products::before {
+  content: "\e923";
+}
+.icon-to-business-artistic::before {
+  content: "\e933";
+}
+.icon-to-business-sports::before {
+  content: "\e92d";
+}
+
+@media (max-width: 791.98px) {
+  .tofont::before {
+    font-size: 18px;
+  }
+}
+/* End::icon */

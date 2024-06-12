@@ -1,0 +1,34 @@
+/* width */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 5px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #f58d32;
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ff7700;
+}
+
+/*scroll css*/
+#custom-scroll {
+  direction: rtl;
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 3px;
+  border-radius: 5px;
+  background: linear-gradient(to left, #f69903 25%, #e36f02 75%);
+  z-index: 99;
+}
+/*end scroll*/
