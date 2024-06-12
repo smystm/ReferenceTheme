@@ -6,7 +6,7 @@ The purpose of creating this theme is to create a `reference` for me to model my
 
 ---
 
-### `Usage`
+### Usage
 
 ```git
 git clone https://github.com/smystm/ReferenceTheme
@@ -14,7 +14,7 @@ git clone https://github.com/smystm/ReferenceTheme
 
 ---
 
-#### `Features` of this project
+#### Features of this project
 
 - Special box
 - Sliders
