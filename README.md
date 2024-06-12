@@ -11,6 +11,8 @@ The purpose of creating this theme is to create a `reference` for me to model my
 ```git
 git clone https://github.com/smystm/ReferenceTheme
 ```
+---
+
 ### Demo
 You can see Demo of this Theme
 [Click Here](https://smystm.github.io/ReferenceTheme/index.html)
