@@ -56,6 +56,65 @@ You can see Demo of this Theme
 
 ---
 
+### ***[View My Profile](https://github.com/smystm)***
+
+# **قالب مرجع** 
+
+<p>
+  سلام! به یکی دیگر از پروژه های من خوش آمدید <img src="https://github.com/smystm/smystm/blob/main/hithere.gif?raw=true" width="20px" />
+</p>
+<p>
+  
+  هدف از ایجاد این قالب ایجاد یک **`قالب مرجع`** برای من در ساخت سایت های مختلف است.
+  
+</p>
+
+## درباره پروژه
+
+پروژه جدید من شامل هدر و فوتر و 6 سکشن است و سعی کردم باکس ها و بخش های مناسب برای معرفی و تشریح کار یک شرکت ایجاد کنم. من همچنین یک کاستوم اسکرولر در هدر ایجاد کردم که می توانید آن را در کد JS پیدا کنید.
+<img src="https://github.com/smystm/smystm/blob/main/gif-hours-programmer.gif?raw=true" width="25px" />
+
+## <img src="https://github.com/smystm/smystm/blob/main/estiker%20(1).gif?raw=true" width="27px" align="center"/> این پروژه با چی ساخته شده؟
 
 
-## [View another project of Smy](https://github.com/smystm)
+
+این پروژه فقط یک پروژه فرانت اند است که با HTML & CSS & JS نوشته شده است.
+
+## چگونگی استفاده
+
+در واقع این پروژه یک قالب برای استفاده و ایده گرفتن فرانت کار ها ساخته شده است.
+
+#### ویژگی های این پروژه:
+- دارای صفحه کلاسیک
+- کدهای پروژه تمیز و خوانا
+- با استفاده از html، css، js طراحی شده است
+- باکس های مخصوص
+- اسلایدر ها
+- آیکون باکس ها
+- متن های انیمیشن ویژه
+- اسکرول انیمیشن ویژه (کاستوم اسکرولر)
+
+<p align="right">
+  <img src="https://github.com/smystm/smystm/blob/main/line-gradient.gif?raw=true" align="center" width="33%" />
+</p>
+<p>
+  شما میتوانید از طریق ترمینال git ، این پروژه را با دستور زیر دریافت کنید:
+  <img src="https://github.com/smystm/smystm/blob/main/estiker%20(2).gif?raw=true" width="25px"/>
+</p>
+
+
+```git Bash
+git clone https://github.com/smystm/ReferenceTheme
+```
+
+---
+
+### [نسخه نمایشی(ِDemo)](https://smystm.github.io/ReferenceTheme/index.html)
+شما می توانید نسخه ی نمایشی این تم را ببینید.
+[کلیک کن](https://smystm.github.io/ReferenceTheme/index.html)
+
+---
+
+
+
+### ***[View My Profile](https://github.com/smystm)***
